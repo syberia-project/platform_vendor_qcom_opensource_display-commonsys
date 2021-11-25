@@ -4,6 +4,7 @@ PRODUCT_PACKAGES += libdisplayconfig.system \
                     liblayerext.qti \
                     libsmomoconfig.qti \
                     libcomposerextn.qti \
+                    libdisplayconfig.qti \
                     libdisplayconfig.system.qti
 
 SOONG_CONFIG_NAMESPACES += qtidisplaycommonsys
